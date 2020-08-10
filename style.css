@@ -1,0 +1,29 @@
+body{
+    font: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/bg\ image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1200px;
+}
+.main{
+    text-align: center;
+    color: aqua;
+}
+.ques{
+    color: azure;
+}
+.box{
+    border-radius: 25px;
+    text-align: justify;
+    
+}
+.submit{
+    text-align: center;
+}
+.btn{
+    background-color: aqua;
+    font-weight: bold;
+}
